@@ -1,0 +1,7 @@
+{
+  "name": "CapCut Template Strategist",
+  "description": "AI-powered CapCut template strategist with Google Search grounding to discover trending scene structures, pacing, transitions, text styles, and viral audio categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
